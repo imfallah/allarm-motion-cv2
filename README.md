@@ -31,10 +31,10 @@
 <img src="https://img.shields.io/github/stars/imfallah/snakegame?style=flat-square" alt="github-profile-readme-generator stars"/>
 </a>
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/issues" target="blank">
-<img src="https://img.shields.io/github/issues/imfallah/snakegame?style=flat-square" alt="github-profile-readme-generator issues"/>
+<img src="https://img.shields.io/github/issues/imfallah/allarm-motion-cv2?style=flat-square" alt="github-profile-readme-generator issues"/>
 </a>
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/imfallah/snakegame?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+<img src="https://img.shields.io/github/issues-pr/imfallah/allarm-motion-cv2?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
 </a>
 
 </p>
@@ -42,7 +42,7 @@
 ## `Translation 🔗`
 
   
-- [فارسی](https://github.com/jokernets/snake-game/blob/main/Translatin/FA.md)
+- [فارسی](https://github.com/imfallah/allarm-motion-cv2/blob/main/Translatin/FA.md)
 
 
 
@@ -60,7 +60,7 @@ Table of contents ✅✔
      * [PART 3✔](#part-3)
      * [PART 4✔](#part-4)
    * [Mor Example💯](#more-examples-and-showcase-)
-     * [Picture Project🔆](#project-image)
+     * [Picture Project🔆](#picture-project)
      * [Video Project📺](#video-image-of-the-app-)
     
    * [`CONNECT ME🌐👻`](#connect-me)
@@ -91,7 +91,7 @@ Update existing installation:`pip3 install (YOUR LIBRARY) --upgrade`
 (update as often as possible because this library is under active development)
 
 
-# Analiys Code:
+
 
 ## `PART 1`:
 - `import threading` - Imports the threading module, which allows you to run multiple threads simultaneously.-
@@ -221,8 +221,10 @@ cap.release()
 cv2.destroyAllWindows()
 ```
 
-<img src="https://github.com/jokernets/motion_cv2/blob/main/Cam%202024-04-18%2022_17_44.png" width="300" height="300">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+## Picture Project👀
+
+<img src="https://github.com/imfallah/allarm-motion-cv2/blob/main/public/cap1.png" width="300" height="300">
+<img src="https://github.com/imfallah/allarm-motion-cv2/blob/main/public/gif.gif"><br><br>
 
 
 
@@ -234,7 +236,7 @@ cv2.destroyAllWindows()
 
 
 
-<img src="">
+<img src="https://github.com/imfallah/allarm-motion-cv2/raw/main/public/via.mp4">
 
 # `CONNECT ME`🌐👻
 
