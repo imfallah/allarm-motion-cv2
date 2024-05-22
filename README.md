@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <p align="center">
-<img src="https://github.com/jokernets/motion_cv2/blob/main/Alarm%20motion(1).gif" width=600px>
+<img src="https://github.com/jokernets/motion_cv2/blob/main/Alarmmotion(1).gif" width=600px>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
